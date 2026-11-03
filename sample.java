@@ -5,4 +5,7 @@ public class sample {
         System.out.println("sample program");
 
     }
+    public void sampleMethod() {
+        System.out.println("This is a sample method.");
+    }
 }
