@@ -6,6 +6,6 @@ public class sample {
 
     }
     public void sampleMethod() {
-        System.out.println("This is a sample method.");
+        System.out.println("This is a changedsample method description.");
     }
 }
