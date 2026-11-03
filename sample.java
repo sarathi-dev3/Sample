@@ -5,7 +5,12 @@ public class sample {
         System.out.println("sample program");
 
     }
+
     public void sampleMethod() {
+
         System.out.println("This is a sample method changed by second developer.");
+
+        System.out.println("This is a changed sample method description.");
+
     }
 }
